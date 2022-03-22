@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <Package name="315th AuX">
+    <Container name="main">
+      <Key ID="STR_Aux315tt_main_Author">
+        <Original>315th IDD</Original>
+        <English>315th IDD</English>
+      </Key>
+      <Key ID="STR_Aux61st_main_AuthorShort">
+        <Original>315th Aux</Original>
+        <English>315th Aux</English>
+      </Key>
+    </Container>
+  </Package>
+</Project>

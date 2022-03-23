@@ -21,7 +21,7 @@ class CfgFactionClasses {
         side = 1;
     };
     class 315th_Aux_Empty {
-        displayName = "61st Aux Mod";
+        displayName = "315TH Aux Mod";
         priority = 3;
         side = 1;
     };

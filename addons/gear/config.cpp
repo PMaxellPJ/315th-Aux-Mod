@@ -7,7 +7,7 @@ class CfgPatches {
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {QUOTE(MAIN_ADDON), "A3_Data_F", "A3_Weapons_F", "ace_medical_engine", "ace_medical_treatment"};
         author = "AUTHOR";
-        VERSION_CONFIG =;
+        VERSION_CONFIG;
     };
 };
 

@@ -15,12 +15,12 @@ class CfgPatches {
 enableDebugConsole = 1;
 
 class CfgFactionClasses {
-    class 61st_Aux {
-        displayName = "61st Aux Mod";
+    class 6315th_Aux {
+        displayName = "315th Aux Mod";
         priority = 3;
         side = 1;
     };
-    class 61st_Aux_Empty {
+    class 315th_Aux_Empty {
         displayName = "61st Aux Mod";
         priority = 3;
         side = 1;
@@ -28,17 +28,17 @@ class CfgFactionClasses {
 };
 
 class CfgEditorCategories {
-    class EdCat_61st_Main {
-        displayName = "61st Aux Mod";
+    class EdCat_315th_Main {
+        displayName = "315th Aux Mod";
     };
 
     class EdCat_61st_Supplies{
-        displayName = "61st Supplies";
+        displayName = "315th Supplies";
     };
 };
 
 class CfgEditorSubcategories {
-    class EdSubcat_61st_resupply {
+    class EdSubcat_315th_resupply {
         displayName = "Resupply";
     };
 };

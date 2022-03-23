@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <Package name="61st Aux">
+  <Package name="315th Aux">
     <Container name="main">
-      <Key ID="STR_Aux61st_main_Author">
-        <Original>61st Cavalry Regiment</Original>
-        <English>61st Cavalry Regiment</English>
+      <Key ID="STR_Aux315th_main_Author">
+        <Original>315th IDD</Original>
+        <English>315th IDD</English>
       </Key>
-      <Key ID="STR_Aux61st_main_AuthorShort">
-        <Original>61st Aux</Original>
-        <English>61st Aux</English>
+      <Key ID="STR_Aux315th_main_AuthorShort">
+        <Original>315th Aux</Original>
+        <English>315th Aux</English>
       </Key>
     </Container>
   </Package>

@@ -12,3 +12,4 @@
 		tf_subtype = "digital_lr";
 		tf_range = 120000;
 		maximumLoad = 500;
+		};

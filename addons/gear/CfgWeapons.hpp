@@ -1,4 +1,5 @@
-		//Imports
+class CfgWeapons {	
+	//Imports
 		class SWLB_clone_bag_belt;
 		
 		class GVAR(Pilot_Radio_Pack):SWLB_clone_bag_belt {
@@ -13,3 +14,4 @@
 		tf_range = 120000;
 		maximumLoad = 500;
 		};
+};

@@ -1,4 +1,4 @@
-class CfgWeapons {    
+class CfgVehicles {    
     //Imports
         class SWLB_clone_bag_belt;
         class GVAR(Pilot_Radio_Pack):SWLB_clone_bag_belt {

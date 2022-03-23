@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <Package name="61st Aux">
+    <Container name="main">
+      <Key ID="STR_Aux61st_main_Author">
+        <Original>61st Cavalry Regiment</Original>
+        <English>61st Cavalry Regiment</English>
+      </Key>
+      <Key ID="STR_Aux61st_main_AuthorShort">
+        <Original>61st Aux</Original>
+        <English>61st Aux</English>
+      </Key>
+    </Container>
+  </Package>
+</Project>

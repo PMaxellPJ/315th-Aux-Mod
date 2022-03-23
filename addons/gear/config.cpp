@@ -2,9 +2,9 @@ class CfgPatches {
     class ADDON {
         name = COMPONENT_NAME;
         weapons[] = {QGVAR(Pilot_Radio_Pack)};
-        requiredVersion = REQUIRED_VERSION;
+        requiredVersion =;
         author = "AUTHOR";
-        VERSION_CONFIG;
+        VERSION_CONFIG =;
     };
 };
 

@@ -1,7 +1,7 @@
 		//Imports
 		class SWLB_clone_bag_belt;
 		
-		class GVAR(Pilot_Radio_Pack):SWKB_clone_bag_belt {
+		class GVAR(Pilot_Radio_Pack):SWLB_clone_bag_belt {
 				DISPLAYNAME(Pilot Radio Pack)
 		model = QPATHTOF(data\radio.p3d);
 		mass = 0;
